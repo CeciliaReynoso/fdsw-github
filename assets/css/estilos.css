@@ -1,9 +1,14 @@
 body {
   font-family: "Raleway", sans-serif;
+
 }
 
 p {
-color:  #353333;
+  color:  #353333;
+}
+.celeste {
+  font-weight: 700;
+  color: #0dcaf0;
 }
 
 /* Hero Section */
